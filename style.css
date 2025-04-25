@@ -1,6 +1,11 @@
 *{
     color: black;
 }
+body {
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
 .navegacion {
     background-color: lightblue;
     padding: 15px 5px;
@@ -46,4 +51,13 @@ li{
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color: rgb(93, 183, 183);
+}
+
+table {
+    margin: 50px auto;
+    width: 80%;
+    max-width: 700px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px solid black;
 }
