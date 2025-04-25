@@ -3,8 +3,26 @@
 }
 .navegacion {
     background-color: lightblue;
-    padding: 15px;
+    padding: 15px 5px;
+    margin: auto;
     text-align:left;
     font-family: Arial, Helvetica, sans-serif;
 }
+.navegacion a {
+    color: black;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
 
+.presentacion{
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+h2 span{
+    color: rgb(81, 201, 241);
+    font-size: 25px;
+}
